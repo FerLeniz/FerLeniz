@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fernando</h1>
+<h1 align="center">Hola 👋, soy Fer</h1>
 <h3 align="center">Me encataria poder trabajar para una empresa tecnologica en expansion y estable que me ayude a desarrollar, mejorar y obtener las habilidades necesarias para convertirme en el mejor desarrollador posible con la perseverancia que me caracteriza.</h3>
 
 - 💬 Ask me about **html,css,js...**
