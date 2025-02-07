@@ -1,7 +1,7 @@
-<h1 align="center">Hola 👋, soy Fer</h1>
-<h3 align="center">Me encataria poder trabajar para una empresa tecnologica en expansion y estable que me ayude a desarrollar, mejorar y obtener las habilidades necesarias para convertirme en el mejor desarrollador posible con la perseverancia que me caracteriza.</h3>
+<h1 align="center">Hello 👋, I'm Fer</h1>
+<h3 align="center">I would love to work for a growing and stable technology company that helps me develop, improve, and acquire the necessary skills to become the best developer possible, with the perseverance that characterizes me.</h3>
 
-- 💬 Ask me about **html,css,js...**
+- 💬 Ask me about **HTML, CSS, JS...**
 
 - 📫 How to reach me **ferleniz93@gmail.com**
 
