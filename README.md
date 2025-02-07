@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Fer</h1>
-<h3 align="center">I would love to work for a growing and stable technology company that helps me develop, improve, and acquire the necessary skills to become the best developer possible, with the perseverance that characterizes me.</h3>
+<h3 align="center">I have experience in web development and I am currently working on projects to continue learning and practicing. I am looking for opportunities in a growing and stable technology company where I can further develop my skills and become the best developer I can be, with the perseverance that characterizes me.</h3>
 
 - 💬 Ask me about **HTML, CSS, JS...**
 
